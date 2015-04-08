@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                    results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+        function getUrlData() {
+            var comment = getParameterByName("RESPMSG");
+            document.getElementsByName("my-textarea")[0].value = comment;
+        }
+
+    </script>
+</head>
+
+<body onload="getUrlData()">
+<h1>welcome</h1>
+<textarea name="my-textarea" readonly rows="5" cols="30"> </textarea>
+</body>
+</html>

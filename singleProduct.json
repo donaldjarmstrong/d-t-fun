@@ -1,0 +1,971 @@
+{
+  "CatalogEntryView": [
+    {
+      "CustomerReview": [
+        {
+          "Reviews": [
+            {
+              "RatableAttributes": [
+                {
+                  "description": "value",
+                  "name": "Value",
+                  "value": "4"
+                },
+                {
+                  "description": "quality",
+                  "name": "Quality",
+                  "value": "4"
+                }
+              ],
+              "city": "Tucson",
+              "customerId": "104912852",
+              "datePosted": "Thu Nov 06 16:32:48 UTC 2014",
+              "helpfulVotes": "0",
+              "overallRating": "4",
+              "review": "This is good enough for a daily brew, but it isn't high grade deliciousness.",
+              "reviewKey": "38996411",
+              "screenName": "drimeara",
+              "state": " AZ",
+              "title": "Good but not great",
+              "totalComments": "0",
+              "totalVotes": "0"
+            }
+          ],
+          "consolidatedOverallRating": "4",
+          "totalPages": "1",
+          "totalReviews": "1"
+        }
+      ],
+      "DPCI": "231-10-1364",
+      "IACAttributes": [
+        {
+          "IACGroup": [
+            {
+              "identifier": "109420",
+              "name": "GROCERY"
+            }
+          ],
+          "IACId": [
+            {
+              "identifier": "121201",
+              "name": "coffee, tea and chocolate drinks"
+            }
+          ],
+          "IACSubGroup": [
+            {
+              "identifier": "109634",
+              "name": "BEVERAGE"
+            }
+          ]
+        }
+      ],
+      "Images": [
+        {
+          "AlternateImages": [
+            {
+              "image": "https://scene7-secure.targetimg1.com/is/image/Target/15024203?wid=50&hei=50"
+            }
+          ],
+          "PrimaryImage": [
+            {
+              "Dimensions": [
+                {
+                  "name": "height",
+                  "unit": "pixels",
+                  "value": "500"
+                },
+                {
+                  "name": "width",
+                  "unit": "pixels",
+                  "value": "500"
+                }
+              ],
+              "image": "https://scene7-secure.targetimg1.com/is/image/Target/15024203?wid=410&hei=410"
+            }
+          ],
+          "SwatchImages": [
+            {
+              "Dimensions": [
+                {
+                  "name": "height",
+                  "unit": "pixels",
+                  "value": "12"
+                },
+                {
+                  "name": "width",
+                  "unit": "pixels",
+                  "value": "12"
+                }
+              ],
+              "image": "https://scene7-secure.targetimg1.com/is/image/Target?layer=0&size=40,40&layer=1&src=15024203"
+            }
+          ],
+          "ThumbnailImage": [
+            {
+              "Dimensions": [
+                {
+                  "name": "height",
+                  "unit": "pixels",
+                  "value": "75"
+                },
+                {
+                  "name": "width",
+                  "unit": "pixels",
+                  "value": "75"
+                }
+              ],
+              "image": "https://scene7-secure.targetimg1.com/is/image/Target/15024203?wid=75&hei=75"
+            }
+          ],
+          "source": "internal"
+        },
+        {
+          "AlternateImages": [
+            {
+              "image": "http://target.scene7.com/is/image/Target/15024203_Alt"
+            }
+          ],
+          "PrimaryImage": [
+            {
+              "image": "http://target.scene7.com/is/image/Target/15024203"
+            }
+          ],
+          "imageCount": "0",
+          "source": "external"
+        }
+      ],
+      "IsSubscribeSave": "true",
+      "ItemAttributes": [
+        {
+          "Attribute": [
+            {
+              "comparable": "false",
+              "description": "PickupInStore",
+              "identifier": "PickupInStore",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SIZE_CHART",
+              "identifier": "SIZE_CHART",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148952",
+              "identifier": "148952",
+              "value": [
+                "paper or cardboard"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148997",
+              "identifier": "148997",
+              "value": [
+                "1.000"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148953",
+              "identifier": "148953",
+              "value": [
+                "carton"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "PRIMARY_BARCODE",
+              "identifier": "PRIMARY_BARCODE",
+              "value": [
+                "085239123720"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "150550",
+              "identifier": "150550",
+              "value": [
+                "ingredient"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148955",
+              "identifier": "148955",
+              "value": [
+                "dry"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "COUNTRY_SOURCE",
+              "identifier": "COUNTRY_SOURCE",
+              "value": [
+                "UNITED STATES"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148956",
+              "identifier": "148956",
+              "value": [
+                "exact"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MANUFACTURING_BRAND",
+              "identifier": "MANUFACTURING_BRAND",
+              "value": [
+                "Archer Farms"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148759",
+              "identifier": "148759",
+              "value": [
+                "multi-pack single servings"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "EDIT_LONGCOPY",
+              "identifier": "EDIT_LONGCOPY",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148958",
+              "identifier": "148958",
+              "value": [
+                "48.000"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "UPC",
+              "identifier": "UPC",
+              "value": [
+                "085239123720"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "PO_BOX_PROHIBITED",
+              "identifier": "PO_BOX_PROHIBITED",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "EXPRESS_DELIVERY_ELIGIBLE",
+              "identifier": "EXPRESS_DELIVERY_ELIGIBLE",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "KEY_ITEM",
+              "identifier": "KEY_ITEM",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "true",
+              "description": "disclaimer.",
+              "identifier": "115052",
+              "value": [
+                "Grocery Disclaimer"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148961",
+              "identifier": "148961",
+              "value": [
+                "no"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "HAS_WARRANTY",
+              "identifier": "HAS_WARRANTY",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "Return Policy",
+              "identifier": "RETURN_POLICY",
+              "value": [
+                "Standard"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "WHENEVER_SHIPPING_ELIGIBLE",
+              "identifier": "WHENEVER_SHIPPING_ELIGIBLE",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "147952",
+              "identifier": "147952",
+              "value": [
+                "1.000"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148964",
+              "identifier": "148964",
+              "value": [
+                "ground"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "VPP_$_EST",
+              "identifier": "VPP_$_EST",
+              "value": [
+                "6.89"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "VPP_%_EST",
+              "identifier": "VPP_%_EST",
+              "value": [
+                "29.96"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "NUMBER_OF_RATINGS",
+              "identifier": "NUMBER_OF_RATINGS",
+              "value": [
+                "1"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "EVENT_ST_DT",
+              "identifier": "EVENT_ST_DT",
+              "value": [
+                "12-Dec-14"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "DIVISION",
+              "identifier": "DIVISION",
+              "value": [
+                "Grocery"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IAC_ID",
+              "identifier": "IAC_ID",
+              "value": [
+                "coffee, tea and chocolate drinks"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "TAX_CATEGORY",
+              "identifier": "TAX_CATEGORY",
+              "value": [
+                "09010"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148052",
+              "identifier": "148052",
+              "value": [
+                "room temperature"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MERCH_CLASS",
+              "identifier": "MERCH_CLASS",
+              "value": [
+                "BREAKFAST & WARM BEVERAGES"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148053",
+              "identifier": "148053",
+              "value": [
+                "non-perishable"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "BARCODE_TYPE",
+              "identifier": "BARCODE_TYPE",
+              "value": [
+                "UPC"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SOI_PRICE_Display",
+              "identifier": "SOI_PRICE_Display",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "true",
+              "description": "107883",
+              "identifier": "107883",
+              "value": [
+                "18.600"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IS_FRAGILE",
+              "identifier": "IS_FRAGILE",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SEASONAL_FLAG",
+              "identifier": "SEASONAL_FLAG",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IMPORT_DESIGNATION",
+              "identifier": "IMPORT_DESIGNATION",
+              "value": [
+                "MU"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SAVE_DOLLAR",
+              "identifier": "SAVE_DOLLAR",
+              "value": [
+                "2"
+              ]
+            },
+            {
+              "comparable": "true",
+              "description": "108657",
+              "identifier": "108657",
+              "value": [
+                "288.000"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "BOPO_FLAG",
+              "identifier": "BOPO_FLAG",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MODEL_NUMBER",
+              "identifier": "MODEL_NUMBER",
+              "value": [
+                "null"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "HAS_PROP65",
+              "identifier": "HAS_PROP65",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "LAUNCH_PUBLISH_FLAG",
+              "identifier": "LAUNCH_PUBLISH_FLAG",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MAX_ORDER_QTY",
+              "identifier": "MAX_ORDER_QTY",
+              "value": [
+                "3"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IAC_GROUP",
+              "identifier": "IAC_GROUP",
+              "value": [
+                "GROCERY"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SHIP_TO_RESTRICTION",
+              "identifier": "SHIP_TO_RESTRICTION",
+              "value": [
+                "American Samoa,Northern Mariana Islands,Guam,Virgin Islands, U.S.,United States Minor Outlying Islands,Puerto Rico"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "FFMFC_TYPE",
+              "identifier": "FFMFC_TYPE",
+              "value": [
+                "5"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "BUYERSHIP",
+              "identifier": "BUYERSHIP",
+              "value": [
+                "Grocery"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "RETURN_METHOD",
+              "identifier": "RETURN_METHOD",
+              "value": [
+                "This item can be returned to any Target store or Target.com."
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "BACKORDER_TYPE",
+              "identifier": "BACKORDER_TYPE",
+              "value": [
+                "Not Allowed"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MERCHANT_PUBLISH_FLAG",
+              "identifier": "MERCHANT_PUBLISH_FLAG",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IS_FOOD",
+              "identifier": "IS_FOOD",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "GIFT_WRAPABLE",
+              "identifier": "GIFT_WRAPABLE",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IAC_SUBGROUP",
+              "identifier": "IAC_SUBGROUP",
+              "value": [
+                "BEVERAGE"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "IS_HAZMAT",
+              "identifier": "IS_HAZMAT",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "FACILITY_TYPE",
+              "identifier": "FACILITY_TYPE",
+              "value": [
+                "Overpack"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "ASIN",
+              "identifier": "ASIN",
+              "value": [
+                "15024203"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MERCH_SUBCLASS",
+              "identifier": "MERCH_SUBCLASS",
+              "value": [
+                "10"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "127450",
+              "identifier": "127450",
+              "value": [
+                "subscription eligible"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "CIRCULAR_PUBLISH_FLAG",
+              "identifier": "CIRCULAR_PUBLISH_FLAG",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148981",
+              "identifier": "148981",
+              "value": [
+                "brewed coffee"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "BEDDING",
+              "identifier": "BEDDING",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "CONSOLIDATED_RATING",
+              "identifier": "CONSOLIDATED_RATING",
+              "value": [
+                "4"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SIGN_REQUIRED",
+              "identifier": "SIGN_REQUIRED",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "112246",
+              "identifier": "112246",
+              "value": [
+                "coffee pods"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "SAVE_PERCENT",
+              "identifier": "SAVE_PERCENT",
+              "value": [
+                "8"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "RELATION_ITEM_TYPE",
+              "identifier": "RELATION_ITEM_TYPE",
+              "value": [
+                "Stand Alone"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "NUTRITION_FACTS_FLAG",
+              "identifier": "NUTRITION_FACTS_FLAG",
+              "value": [
+                "Y"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "MFBRAND",
+              "identifier": "MFBRAND",
+              "value": [
+                "Archer Farms"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "NO_OF_BOXES",
+              "identifier": "NO_OF_BOXES",
+              "value": [
+                "0"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "WINDOW",
+              "identifier": "WINDOW",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "HAS_RECALL",
+              "identifier": "HAS_RECALL",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "EDIT_ADHOC_BULLETS",
+              "identifier": "EDIT_ADHOC_BULLETS",
+              "value": [
+                "N"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "EVENT_END_DT",
+              "identifier": "EVENT_END_DT",
+              "value": [
+                "12-Dec-14"
+              ]
+            },
+            {
+              "comparable": "false",
+              "description": "148553",
+              "identifier": "148553",
+              "value": [
+                "caffeinated"
+              ]
+            }
+          ]
+        }
+      ],
+      "ItemDescription": [
+        {
+          "features": [
+            "<strong>Type:</strong> coffee pods",
+            "<strong>Serving Size:</strong> 1.0 pckg",
+            "<strong>Servings per Container:</strong> 1.0",
+            "<strong>Containers per Package:</strong> 48.0",
+            "<strong>Total Volume:</strong> 288.0 Oz.",
+            "<strong>Form:</strong> ground",
+            "<strong>Beverage Type:</strong> brewed coffee"
+          ]
+        }
+      ],
+      "Offers": [
+        {
+          "OfferPrice": [
+            {
+              "currencyCode": "USD",
+              "formattedPriceValue": "$24.99",
+              "priceQualifier": "Online Price",
+              "priceValue": "2499"
+            }
+          ]
+        }
+      ],
+      "POBoxProhibited": "We regret that this item cannot be shipped to PO Boxes.",
+      "PackageDimension": [
+        {
+          "name": "length",
+          "unit": "IN",
+          "value": "9.2"
+        },
+        {
+          "name": "width",
+          "unit": "IN",
+          "value": "7.2"
+        },
+        {
+          "name": "height",
+          "unit": "IN",
+          "value": "5.7"
+        },
+        {
+          "name": "weight",
+          "unit": "LB",
+          "value": "1.8"
+        }
+      ],
+      "ReturnPolicy": [
+        {
+          "ReturnPolicyDetails": [
+            {
+              "guestMessage": "View our return policy.",
+              "policyDays": "100",
+              "policyId": "17",
+              "specialEventId": "0",
+              "user": "Regular Guest"
+            },
+            {
+              "guestMessage": "View our return policy.",
+              "policyDays": "120",
+              "policyId": "17",
+              "specialEventId": "0",
+              "user": "Best Guest"
+            }
+          ],
+          "legalCopy": "refund/exchange policy<br/><br/><p style=\"font-size:13px;\">Most unopened items in new condition returned within 90 days will receive a refund or exchange. Some items have a modified return policy that is less than 90 days.&nbsp;Those items will either show a \"return by\" date or \"return within\" day range under the item on your receipt or packing slip and in the \"Item details, shipping\" tab if purchased on Target.com. Items that are opened or damaged or do not have a packing slip or receipt may be denied a refund or exchange. All bundled items must be returned with all components for a full refund. Bundle components may not all have the same return policy; please check your packing slip for details.&nbsp; Some items, such as gift cards, digital items&nbsp;are never returnable.&nbsp;<br /><br />See the <a href=\"http://www.target.com/HelpContent?help=/sites/html/TargetOnline/help/returns_and_refunds/returns_and_refunds.html\">Target return policy</a> for complete information.</p><br/>"
+        }
+      ],
+      "SFSEnabled": "true",
+      "SubscriptionDetails": [
+        {
+          "currencyCode": "USD",
+          "formattedPriceValue": "$23.74",
+          "priceValue": "2374",
+          "promotionMessage": "save 5% when you subscribe",
+          "recurrence": "4 weeks|4-WEE,6 weeks|6-WEE,8 weeks|8-WEE,10 weeks|10-WEE,12 weeks|12-WEE,16 weeks|16-WEE,20 weeks|20-WEE,26 weeks|26-WEE",
+          "shippingMessage": "SHIPS FREE WITH SUBSCRIPTION",
+          "startDate": "2015-03-06T20:17:16",
+          "subscriptionMessage": "subscription price may change over time"
+        }
+      ],
+      "Taxonomy": [
+        {
+          "Child": [
+            {
+              "Child": [
+                {
+                  "Child": [
+                    {
+                      "categoryId": "864502",
+                      "name": "grocery subscriptions"
+                    }
+                  ],
+                  "categoryId": "55501",
+                  "name": "grocery ways to shop"
+                }
+              ],
+              "categoryId": "5033",
+              "name": "grocery & essentials"
+            }
+          ],
+          "categoryId": "5",
+          "name": "Category"
+        },
+        {
+          "Child": [
+            {
+              "Child": [
+                {
+                  "Child": [
+                    {
+                      "categoryId": "46501",
+                      "name": "Archer Farms"
+                    }
+                  ],
+                  "categoryId": "808502",
+                  "name": "Grocery"
+                }
+              ],
+              "categoryId": "754007",
+              "name": "Featured Brands"
+            }
+          ],
+          "categoryId": "5",
+          "name": "Category"
+        },
+        {
+          "Child": [
+            {
+              "Child": [
+                {
+                  "Child": [
+                    {
+                      "categoryId": "5066",
+                      "name": "coffee, tea & cocoa"
+                    }
+                  ],
+                  "categoryId": "5036",
+                  "name": "beverages"
+                }
+              ],
+              "categoryId": "5033",
+              "name": "grocery & essentials"
+            }
+          ],
+          "categoryId": "5",
+          "name": "Category"
+        },
+        {
+          "Child": [
+            {
+              "Child": [
+                {
+                  "Child": [
+                    {
+                      "categoryId": "553001",
+                      "name": "grocery store pickup eligible"
+                    }
+                  ],
+                  "categoryId": "55501",
+                  "name": "grocery ways to shop"
+                }
+              ],
+              "categoryId": "5033",
+              "name": "grocery & essentials"
+            }
+          ],
+          "categoryId": "5",
+          "name": "Category"
+        }
+      ],
+      "UPC": "085239123720",
+      "applyCouponLink": "false",
+      "buyable": "true",
+      "catEntryId": "206217154",
+      "classId": "10",
+      "department": "231",
+      "dynamicKitURL": "http://www.target.com/p/archer-farms-medium-roast-house-blend-coffee-k-cup-48-ct/-/A-15024203",
+      "inventoryCode": "6",
+      "inventoryStatus": "out of stock online ",
+      "isBuyItNowEligible": "false",
+      "itemId": "1364",
+      "itemType": "ItemBean",
+      "manufacturer": "Mother Parkers Tea & Coffee, Inc.",
+      "manufacturerPartNumber": "null",
+      "partNumber": "15024203",
+      "purchasingChannel": "Sold Online + in Stores",
+      "purchasingChannelCode": "0",
+      "shortDescription": "<p>Archer Farms K-Cups® packs contain a unique blend of 100% Arabica coffees, specifically roasted to bring you that perfect cup of coffee. This easy-drinking House Blend is balanced with a rich aroma and well-rounded body. Walnut and chocolate notes bring together our signature blend. A great way to start the day is with a cup of brewed, Archer Farms Coffee in your hand.</p>",
+      "title": "Archer Farms Medium Roast House Blend Coffee K-Cup 48 ct",
+      "webclass": "BREAKFAST & WARM BEVERAGES"
+    }
+  ],
+  "responseTime": "48"
+}

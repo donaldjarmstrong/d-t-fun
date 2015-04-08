@@ -1,0 +1,30 @@
+{
+  "name": "disney-target-products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "co": "^4.3.1",
+    "co-request": "^0.2.0",
+    "control.async": "^0.5.1",
+    "data.future": "^2.3.0",
+    "dotenv": "^0.5.1",
+    "event-stream": "^3.3.0",
+    "highland": "^2.4.0",
+    "lambdajs": "^1.0.1",
+    "lodash": "^3.3.1",
+    "mongodb": "^2.0",
+    "pointfree-fantasy": "^0.1.1",
+    "promised-io": "^0.3.4",
+    "ramda": "^0.9.1",
+    "request": "^2.53.0",
+    "request-promise": "^0.4.0",
+    "thunkify": "^2.1.2"
+  }
+}
